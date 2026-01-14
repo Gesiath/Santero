@@ -1,5 +1,4 @@
 # Santero
-<<<<<<< HEAD
 Aplicación Web para compra de pedidos de rotisería Santero direcicción Av. Ovidio Lagos 1495, Rosario.
 
 ## Colaboradores:
@@ -11,10 +10,7 @@ Aplicación Web para compra de pedidos de rotisería Santero direcicción Av. Ov
 <ul><li> Marcos, Escobar  - <strong>Frontend: (https://github.com/markosmk)</strong></li></ul>
 <ul><li> David, Henao - <strong>Diseño Ux/Ui: (https://github.com/dhdev7)</strong></li></ul>
 <ul><li> Maria, Vásquez - <strong>Diseño Ux/Ui: (https://github.com/magshva)</strong></li></ul>
-=======
-<<<<<<< HEAD
-Food ecommerce website for a real business.
-=======
+
 Food ecommerce website for a real business in Rosario. Placed in Av. Ovidio Lagos 1495.
 
 # Contributors
