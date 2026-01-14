@@ -4,6 +4,7 @@ Aplicación Web para compra de pedidos de rotisería Santero direcicción Av. Ov
 ## Colaboradores:
 <ul><li> Oriana, Pellegrini  <strong>Team Leader</strong> (https://github.com/Oriana10)</li></ul>
 <ul><li> Franco, Lamberti - <strong>Backend: (https://github.com/FrancoFelg)</strong></li></ul>
+<ul><li> Santiago, Perez - <strong>Backend: (https://github.com/Gesiath)</strong></li></ul>
 <ul><li> Elías, Yoc  - <strong>Frontend: (https://github.com/EliasYoc)</strong></li></ul>
 <ul><li> Jano, Melul  - <strong>Frontend: (https://github.com/JanoMelul)</strong></li></ul>
 <ul><li> Marcos, Escobar  - <strong>Frontend: (https://github.com/markosmk)</strong></li></ul>
